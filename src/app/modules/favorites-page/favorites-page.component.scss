@@ -1,0 +1,9 @@
+#grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 10em);
+  grid-column-gap: 2em;
+}
+
+p.no-items {
+  text-align: center;
+}
